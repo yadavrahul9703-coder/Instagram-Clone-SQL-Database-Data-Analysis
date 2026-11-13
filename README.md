@@ -1,1 +1,0 @@
-# Instagram-Clone-SQL-Database-Data-Analysis
